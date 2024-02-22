@@ -1,28 +1,28 @@
 NETWORKING
 
 Network—A network is an interconnected collection of autonomous computers. Two computers are said to be interconnected if they are capable of exchanging information. 
- A network is a set of devices connected by
+A network is a set of devices connected by
 communication links. A node can be a computer printer or any other device capable of sending and receiving data. 
 In general, two or more two computers are connected and transfer their data by communication medium which is known as a computer network. Today computer network support in a variety of areas such as bank, corporate, education, railway, airline, weather forecasting, and many other important areas.	
 The most important example of a computer network is the Internet, which connects people from one place to another place.
 
 Classification of Network:
 Computer networks have been classified into three categories:
-1.	LAN-Local Area Network
-2.	WAN-Wide Area Network
-3.	MAN-Metropolitan Area Network
+1.LAN-Local Area Network
+2.WAN-Wide Area Network
+3.MAN-Metropolitan Area Network
 
-1}. LAN (Local Area Network)— LAN is the simplest form of network. Local Area Network provides data communication with shorter distances and connects several devices such as computers, and printers. This type of network contains computers, that are relatively close and are physically connected with cables and wireless media. 
+1}.LAN (Local Area Network)— LAN is the simplest form of network. Local Area Network provides data communication with shorter distances and connects several devices such as computers, and printers. This type of network contains computers, that are relatively close and are physically connected with cables and wireless media. 
 Any network that exists within a single building or even a group of adjacent buildings is considered a LAN. The major purpose of such interconnectivity is to establish a communication system to make the work easier. 
 A Local Area Network (LAN) is usually privately owned and links the devices in a single office, building, or campus.
 LANs are designed to allow resources to be shared between PCs (Personal computers) or workstations.                                                        
 
-2}. WAN (Wide Area Network)—A WAN provides long-distance transmission of data, image, audio, and video information over a large geographic area that may comprise a country, a continent, or even the whole world.
+2}.WAN (Wide Area Network)—A WAN provides long-distance transmission of data, image, audio, and video information over a large geographic area that may comprise a country, a continent, or even the whole world.
 The services of WAN are provided by public (government) agencies as well as private agencies. The network also provides the facility to access databases located remotely.
 A WAN can be as complex as the backbones that connect the Internet or as simple as a dial upline that connects a home computer to the Internet.
  An example of a switched WAN is the Asynchronous transfer mode (ATM) network which is a network with fixed-size data unit packets.
     
-3}. MAN (Metropolitan Area Network)—A MAN is a network with a size between a LAN and a WAN. It normally covers the area inside a town and city. It is designed for customers who need high-speed connectivity.
+3}.MAN (Metropolitan Area Network)—A MAN is a network with a size between a LAN and a WAN. It normally covers the area inside a town and city. It is designed for customers who need high-speed connectivity.
 MANs are not owned by a sole organization. Their communication devices and equipment are maintained by a group or single network provider. It provides high-speed Internet services throughout the area covered within the network. 
 An example of MAN is the cable TV network that originally was designed for cable TV. Another example of MAN is the part of the telephone company network that can provide a high-speed DSL (Digital Subscriber Line) to customers.
  
@@ -30,11 +30,11 @@ COMMUNICATION MODEL
 The fundamental purpose of a communication system is the exchange of data between two parties which is the communication between a workstation and a server over the public telephone network.
 Another example is the exchange of voice signals between two telephones over the same network. The key elements of the models are as follows –
 
-1)	Source 
-2)	Transmitter
-3)	Transmission System 
-4)	Receiver
-5)	Destination
+1)Source 
+2)Transmitter
+3)Transmission System 
+4)Receiver
+5)Destination
  
 1)Source—
 This device generates the data to be transmitted.
@@ -51,7 +51,7 @@ This can be a signal transmission line or a complex network connecting source an
 The receiver accepts the signal from the transmission system and converts it into a form that can be handled by the destination device.  
 For example: A modem will accept an analog signal coming from a network or transmission and convert it into a digital bit stream.
 
-5) Destination—
+5)Destination—
 The destination takes the incoming data from the receiver.
 
 COMMUNICATION TASK
@@ -100,41 +100,41 @@ A data communication facility is a complex system that cannot create or run itse
 Advantages of Network
 
 There are several advantages to performing through the network:
-•	File sharing—
+•File sharing—
 The measured advantage of a computer network is that allows file sharing or remote file sharing.
 A person sitting at one workstation of a network can easily see the file present on the other workstation. It saves the time that is wasted in copying or file from one system to another.
 
-•	Resource Sharing—
+•Resource Sharing—
 Resource sharing is also an important benefit of a computer network. Using a network and just a modem and printer can effectivity provide the services to all other computers.
 
-•	Increase Storage Capacity—
+•Increase Storage Capacity—
 As there is more than one computer on a network that can easily share files. The issue of storage capacity gets resolved to is great extent. A stand-alone computer might of all sort of storage memory but many computers are on a network memory of a different computer can be used in such cases one can also design storage.
 
-•	Increase Coast Efficient—
+•Increase Coast Efficient—
 There are many software available in the market that are very costly and take a long time to install computer networks resolve this issue as the software can be stored or installed on a system or a server and can be used by different workstations.
 
-•	Reliability—
+•Reliability—
 Reliability implies backing up information. Due to some reason equipment crash or so on, the information is accessible on another workstation for future use and smooth working.
 
-•	Data Security—
+•Data Security—
 Since data is stored on the server computer centrally. It will be easy to manage data at only one place and data will be more secure.
 
-•	Easy to communicate—
+•Easy to communicate—
 With the help of networking the communication system has now become different models of communication are text chatting, Video chatting, email, etc.
 
 Disadvantage of Network
 
 There are main disadvantages of computer networks:
-•	Security—
+•Security—
 One of the major drawbacks of computer networks is the security issues involved. If a computer is stand-alone physical access becomes necessary for any kind of data theft. However, if a computer is on a network computer hacks can get unauthorized access by using different networks. In the case of big organizations various network software are used to prevent the theft of any condition and classified data.
 
-•	Computer Virus—
+•Computer Virus—
 If any computer system is in a network get by affected by the computer. There is the possible thread of other systems getting affected by the virus getting spread on a network easily because of an inter-connected workstation.
 
-•	Expensive Setup—
+•Expensive Setup—
 The initial setup of a computer network can be highly dependent on the number of computers to be connected. Costly devices like routers, switches, hubs, etc added up to the bill of people trying to install to a computer network.
 
-•	Depending on the main files server—
+•Depending on the main files server—
 In case of the main files server of a computer network breakdown then the system becomes useless. In the case of a big network, the files server system should be a powerful computer system which often make it expensive.
 
 
